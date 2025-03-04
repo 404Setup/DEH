@@ -38,7 +38,7 @@ newHatchlingIsBaby: true
 - /deh-reload
 
 ## License
-Use [Apache-2.0](https://github.com/404Setup/GoldPiglin?tab=Apache-2.0-1-ov-file#readme) as the license.
+Use [Apache-2.0](https://github.com/404Setup/DEH?tab=Apache-2.0-1-ov-file#readme) as the license.
 
 If you publish my work elsewhere, you need my permission first and you must redirect the download source to my Modrinth, Curseforge, Hangar, SpigotForum and Github pages and keep the original link. You cannot declare this project as yours.
 
