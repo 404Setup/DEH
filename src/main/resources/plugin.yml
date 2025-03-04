@@ -1,0 +1,19 @@
+name: DEH
+version: '${version}'
+main: one.tranic.deh.Main
+api-version: '1.12.2'
+load: STARTUP
+authors: [404Setup]
+description: Chicken eggs on hay blocks hatch safely into chicks just before they despawn.
+folia-supported: true
+
+commands:
+  deh-reload:
+    description: DEH command
+    usage: /deh-reload
+    permission: tranic.deh
+
+permissions:
+  tranic.deh:
+    description: Allows /deh-reload reload
+    default: op
